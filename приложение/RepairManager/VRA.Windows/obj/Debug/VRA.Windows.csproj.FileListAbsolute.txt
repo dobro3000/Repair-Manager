@@ -1,0 +1,203 @@
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe.config
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.cache
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.lref
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.g.resources
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.Properties.Resources.resources
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinMachine.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinMachine.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinRepair.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinRepair.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinCountry.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinCountry.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\seach\SearchWindow.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\seach\SearchWindow.g.cs
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\ReportWindow.baml
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.Windows\obj\Debug\ReportWindow.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe.config
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\seach\SearchWindow.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\ReportWindow.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\seach\SearchWindow.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinCountry.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinRepair.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinMachine.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.cache
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.lref
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\ReportWindow.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinCountry.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinRepair.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinMachine.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.baml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.g.resources
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.Properties.Resources.resources
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe.config
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\seach\SearchWindow.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\ReportWindow.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\seach\SearchWindow.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinCountry.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinRepair.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinMachine.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.cache
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.lref
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\ReportWindow.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinCountry.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinRepair.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinMachine.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.baml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.g.resources
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.Properties.Resources.resources
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.AboutBox1.resources
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe.config
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\ReportWindow.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\ReportWindow.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinCountry.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinRepair.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinMachine.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.cache
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.lref
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinCountry.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinRepair.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinMachine.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.g.resources
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.AboutBox1.resources
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.Properties.Resources.resources
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SearchWindow.baml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SearchWindow.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe.config
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.exe
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.pdb
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.exe
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Windows.pdb
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\EPPlus.dll
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.dll
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.dll
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.dll
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.BusinessLayer.pdb
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.DataAccess.pdb
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\VRA.Dto.pdb
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\bin\Debug\EPPlus.xml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csprojResolveAssemblyReference.cache
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\MainWindow.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\ReportWindow.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SearchWindow.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\MainWindow.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\ReportWindow.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SearchWindow.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\SettingsWindow.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinCountry.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinRepair.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinMachine.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\App.g.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.cache
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows_MarkupCompile.lref
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinCountry.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinEnterprise.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinRepair.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinMachine.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeMach.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\WinTypeRepair.baml
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.g.resources
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.AboutBox1.resources
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.Properties.Resources.resources
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\VRA.Windows.csproj.GenerateResource.Cache

@@ -1,0 +1,227 @@
+﻿<Window x:Class="VRA.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="500" Width="800"
+        >
+    <Window.Background>
+        <ImageBrush ImageSource="ico/fon.jpg"  Stretch="UniformToFill" TileMode="None"  ></ImageBrush>
+    </Window.Background>
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="405*"/>
+            <RowDefinition Height="31*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="74*"/>
+            <ColumnDefinition Width="647*"/>
+            <ColumnDefinition Width="71*"/>
+        </Grid.ColumnDefinitions>
+
+
+        <DataGrid x:Name="dgCountry" Grid.Row="1" Grid.Column="1" IsReadOnly="True" AutoGenerateColumns="False"  Visibility="Hidden" AlternatingRowBackground="PowderBlue" RowHeaderWidth="0" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ИД" Binding="{Binding Path=IDCountry}"  Visibility="Collapsed" />
+                <DataGridTextColumn Header="Название страны" Binding="{Binding Path=NameCountry}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="dgEnterprise" Grid.Row="1" Grid.Column="1" IsReadOnly="True" AutoGenerateColumns="False"  Visibility="Hidden" AlternatingRowBackground="PowderBlue" RowHeaderWidth="0" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ИД" Binding="{Binding Path=IDEnterprise}" Visibility="Collapsed"/>
+                <DataGridTextColumn Header="Название предприятия" Binding="{Binding Path=NameEnterprise}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="dgRepair" Grid.Row="1" Grid.Column="1" IsReadOnly="True" AutoGenerateColumns="False"  Visibility="Hidden" AlternatingRowBackground="PowderBlue" RowHeaderWidth="0" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Код станка" Binding="{Binding Path=CodeMachine}" Width="*" />
+                <DataGridTextColumn Header="Начало ремонта" Binding="{Binding Path=StartDate,  StringFormat=\{0:dd.MM.yyyy\}}"  Width="*"/>
+                <DataGridTextColumn Header="Название ремонта" Binding="{Binding Path=IDRepair.NameTypeRepair}" Width="*" />
+                <DataGridTextColumn Header="Примечание" Binding="{Binding Path=Note}" Width="*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextWrapping" Value="Wrap"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="dgMachine" Grid.Row="1" Grid.Column="1"  IsReadOnly="True" AutoGenerateColumns="False"  Visibility="Hidden" AlternatingRowBackground="PowderBlue" RowHeaderWidth="0" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Код станка" Binding="{Binding Path=CodeMashine}" Width="*" />
+                <DataGridTextColumn Header="Страна" Binding="{Binding Path=IDCountry.NameCountry}" Width="*"/>
+                <DataGridTextColumn Header="Предприятие" Binding="{Binding Path=IDEnterprise.NameEnterprise}" Width="*"/>
+                <DataGridTextColumn Header="Количество ремонтов" Binding="{Binding Path=NumberOfRepair}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="dgTypeMachine" Grid.Row="1" Grid.Column="1" IsReadOnly="True" AutoGenerateColumns="False"  Visibility="Hidden" AlternatingRowBackground="PowderBlue" RowHeaderWidth="0" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Код станка" Binding="{Binding Path=CodeMachine}" Width="*"/>
+                <DataGridTextColumn Header="Марка" Binding="{Binding Path=Mark}" Width="*"/>
+                <DataGridTextColumn Header="Год выпуска" Binding="{Binding Path=YearOfIssue}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="dgTypeRepair" Grid.Row="1" Grid.Column="1" IsReadOnly="True" AutoGenerateColumns="False"  Visibility="Hidden" AlternatingRowBackground="PowderBlue" RowHeaderWidth="0" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ИД ремонта" Binding="{Binding Path=IDRepair}" Visibility="Collapsed"/>
+                <DataGridTextColumn Header="Название ремонта" Binding="{Binding Path=NameRepair}" Width="*"/>
+                <DataGridTextColumn Header="Стоимость" Binding="{Binding Path=Cost}" Width="*"/>
+                <DataGridTextColumn Header="Продолжительность" Binding="{Binding Path=Lenght}" Width="*"/>
+                <DataGridTextColumn Header="Примечание" Binding="{Binding Path=Note}" Width="*">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style TargetType="TextBlock">
+                            <Setter Property="TextWrapping" Value="Wrap"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <Menu Height="30" HorizontalAlignment="Stretch" Name="mainMenu" VerticalAlignment="Top" Grid.ColumnSpan="3" >
+            <MenuItem Name="DataBase" Header="База данных">
+                <MenuItem Name="dataBaseS" Header="Настроить соединение с имеющейся БД" Click="btnDatabase_Click"/>
+            </MenuItem>
+            <MenuItem Name="Reports" Header="Отчеты">
+                <MenuItem Name="GraphReportButton" Header="Отчет по доходу" Click="GraphReportButton_Click"/>
+                <MenuItem Name="ExcelExporterButton" Header="Экспорт таблицы Excel" Click="ExсelExporterButton_Click" />
+                <MenuItem Name="HtmlWorksInfoRepairsButton" Header="Отчет по ремонтам" Click="HtmlWorksInfoRepairsButton_Click" />
+            </MenuItem>
+            <MenuItem Name = "About" Header="О программе" Click="About_Click" ></MenuItem>
+            <MenuItem Name = "Help" Header="Помощь" Click="Help_Click" ></MenuItem>
+        </Menu>
+
+        <StatusBar Name="statusBar" Grid.Row="2" Grid.ColumnSpan="3" HorizontalAlignment="Stretch" Margin="1,0"  VerticalAlignment="Bottom" Height="30">
+            <Label Name ="statusLabel" Content="Работа с таблицей:" Visibility="Visible"></Label>
+        </StatusBar>
+
+
+        <StackPanel Grid.Row="1" Grid.Column="0" Orientation="Vertical">
+            <Button  HorizontalAlignment="Left"  Name="btnCountry"  VerticalAlignment="Top" Height="52" Width="70" Click="btnCountry_Click">
+                <Button.Content>
+                    <StackPanel>
+                        <Image Source="ico/earth.ico" Width="30"></Image>
+                        <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10">Страны</TextBlock>
+                    </StackPanel>
+                </Button.Content>
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Информация о странах-производителях"/></TextBlock>
+                </Button.ToolTip>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnEnterprise"  VerticalAlignment="Top" Height="52" Width="70" Click="btnEnterprise_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Информация о предприятиях-производителях"/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/enterprise.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Предприятия"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnRepair"  VerticalAlignment="Top" Height="52" Width="70" Click="btnRepair_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Информация о ремонтах"/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/repair.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Ремонты"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnMashine"  VerticalAlignment="Top" Height="52" Width="70" Click="btnMachine_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Информация о зарегистрированных станках"/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/machin.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Станки"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnTypeRepair"  VerticalAlignment="Top" Height="52" Width="70" Click="btnTypeRepair_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Информация о видах ремонтов"/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/typeRep.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Виды ремонтов"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnTypeMachine"  VerticalAlignment="Top" Height="52" Width="70" Click="btnTypeMachine_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Информация о видах станков"/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/typeMah.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Виды станков"/></TextBlock>
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+
+
+        <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Vertical" >
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnAdd"  VerticalAlignment="Top" Height="52" Width="70" Click="btnAdd_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Добавить..."/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/add.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Добавить"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnEdit"  VerticalAlignment="Top" Height="52" Width="70" Click="btnEdit_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Редактировать..."/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/edit.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Редактировать"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnDelete"  VerticalAlignment="Top" Height="52" Width="70" Click="btnDelete_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Удалить..."/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/del.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Удалить"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnUpdate"  VerticalAlignment="Top" Height="52" Width="70" Click="btnUpdate_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Обновить"/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/up.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Обновить"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+            <Button  HorizontalAlignment="Left"  x:Name="btnShearc"  VerticalAlignment="Top" Height="52" Width="70" Click="btnTypeShearc_Click">
+                <Button.ToolTip>
+                    <TextBlock><Run Text="Поиск..."/></TextBlock>
+                </Button.ToolTip>
+                <StackPanel>
+                    <Image Source="ico/seachr.ico" Width="30"></Image>
+                    <TextBlock HorizontalAlignment="Center" Margin="1" FontSize="10"><Run Text="Поиск"/></TextBlock>
+                </StackPanel>
+            </Button>
+
+        </StackPanel>
+        
+    </Grid>
+    
+    
+</Window>

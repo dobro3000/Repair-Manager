@@ -1,0 +1,20 @@
+﻿VRA.Windows
+
+
+winexe
+C#
+.cs
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\obj\Debug\
+VRA.Windows
+none
+false
+DEBUG;TRACE
+I:\2_3курс\все\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.Windows\App.xaml
+10625311247
+
+17994239460
+20-1492978017
+MainWindow.xaml;ReportWindow.xaml;SearchWindow.xaml;SettingsWindow.xaml;WinCountry.xaml;WinEnterprise.xaml;WinRepair.xaml;WinMachine.xaml;WinTypeMach.xaml;WinTypeRepair.xaml;
+
+False
+

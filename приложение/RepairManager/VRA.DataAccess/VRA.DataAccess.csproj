@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1481D837-69EC-4C45-8D53-5B7E3E7B0818}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VRA.DataAccess</RootNamespace>
+    <AssemblyName>VRA.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VRA.Dto">
+      <HintPath>I:\2_3курс\VRA.Dto\VRA.Dto\bin\Debug\VRA.Dto.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseDao.cs" />
+    <Compile Include="Country.cs" />
+    <Compile Include="CountryDao.cs" />
+    <Compile Include="DaoFactory.cs" />
+    <Compile Include="Enterprise.cs" />
+    <Compile Include="EnterpriseDao.cs" />
+    <Compile Include="ICountryDao.cs" />
+    <Compile Include="IEnterpriseDao.cs" />
+    <Compile Include="IInfoRepairDao.cs" />
+    <Compile Include="IMachineDao.cs" />
+    <Compile Include="INameRepairDao.cs" />
+    <Compile Include="InfoRepair.cs" />
+    <Compile Include="InfoRepairDao.cs" />
+    <Compile Include="IRepairDao.cs" />
+    <Compile Include="IReportItemDao.cs" />
+    <Compile Include="ISettingsDao.cs" />
+    <Compile Include="ISettingsProcess.cs" />
+    <Compile Include="ITypeMachineDao.cs" />
+    <Compile Include="ITypeRepairDao.cs" />
+    <Compile Include="Machine.cs" />
+    <Compile Include="MachineDao.cs" />
+    <Compile Include="NameRepair.cs" />
+    <Compile Include="NameRepairDao.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repair.cs" />
+    <Compile Include="RepairDao.cs" />
+    <Compile Include="Report.cs" />
+    <Compile Include="ReportDao.cs" />
+    <Compile Include="SettingsDao.cs" />
+    <Compile Include="SettingsProcess.cs" />
+    <Compile Include="TypeMachine.cs" />
+    <Compile Include="TypeMachineDao.cs" />
+    <Compile Include="TypeRepair.cs" />
+    <Compile Include="TypeRepairDao.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

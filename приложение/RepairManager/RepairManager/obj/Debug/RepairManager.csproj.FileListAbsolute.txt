@@ -1,0 +1,5 @@
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\RepairManager\bin\Debug\RepairManager.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\RepairManager\bin\Debug\RepairManager.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\RepairManager\obj\Debug\RepairManager.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\RepairManager\obj\Debug\RepairManager.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\RepairManager\obj\Debug\RepairManager.pdb

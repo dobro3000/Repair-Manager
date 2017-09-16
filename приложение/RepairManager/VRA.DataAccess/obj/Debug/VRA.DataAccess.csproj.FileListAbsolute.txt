@@ -1,0 +1,26 @@
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.DataAccess\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\obj\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.DataAccess\bin\Debug\VRA.Dto.dll

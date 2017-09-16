@@ -1,0 +1,44 @@
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\Bnju\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\ИТОГ ПО КУРСОВОЙ\Курсовая\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.BusinessLayer.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.DataAccess.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\VRA.Dto.pdb
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\bin\Debug\EPPlus.xml
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.dll
+C:\Users\Dobro\Desktop\ГОТОВАЯ РАБОТА ПО КУРСОВОЙ\приложение\RepairManager\VRA.BusinessLayer\obj\Debug\VRA.BusinessLayer.pdb

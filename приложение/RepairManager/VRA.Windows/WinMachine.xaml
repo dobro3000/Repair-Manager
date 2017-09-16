@@ -1,0 +1,31 @@
+﻿<Window x:Class="VRA.Windows.WinMachine"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VRA.Windows"
+        mc:Ignorable="d"
+        Title="Станки" Height="272" Width="306" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterOwner">
+    <Grid Margin="0,0,4,7">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="71*"/>
+        </Grid.ColumnDefinitions>
+        <ComboBox x:Name="cbCodeMachine" HorizontalAlignment="Left" Margin="8,24,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding}" DisplayMemberPath="CodeMachine" Grid.Column="1"/>
+        <ComboBox x:Name="cbEnterprise" HorizontalAlignment="Left" Margin="8,71,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding}" DisplayMemberPath="NameEnterprise" Grid.Column="1"/>
+        <ComboBox x:Name="cbCountry" HorizontalAlignment="Left" Margin="8,116,0,0" VerticalAlignment="Top" Width="120" ItemsSource="{Binding}" DisplayMemberPath="NameCountry" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="23,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Код станка"/><Run Text="*"/></TextBlock>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="23,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Предприятие"/><Run Text="*"/></TextBlock>
+        <TextBlock x:Name="textBlock2" HorizontalAlignment="Left" Margin="23,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="Страна"/><Run Text="*"/></TextBlock>
+        <Button x:Name="btnSave" Content="Сохранить" HorizontalAlignment="Left" Margin="10,209,0,0" VerticalAlignment="Top" Width="108" Click="btnSave_Click"/>
+        <Button x:Name="btnCancel" Content="Отменить" HorizontalAlignment="Left" Margin="25,209,0,0" VerticalAlignment="Top" Width="103" Click="btnCancel_Click" Grid.Column="1"/>
+        <TextBlock x:Name="textBlock3" HorizontalAlignment="Left" Margin="23,164,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Grid.ColumnSpan="2"><Run Text="обязательные поля помечены "/><Run Text="*"/></TextBlock>
+
+
+
+
+    </Grid>
+</Window>
